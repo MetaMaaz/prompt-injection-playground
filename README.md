@@ -147,3 +147,8 @@ teach defense. Don't point them at systems you don't own or have permission to t
 ---
 
 *Built as a cybersecurity portfolio project on LLM application security (OWASP LLM01: Prompt Injection).*
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
